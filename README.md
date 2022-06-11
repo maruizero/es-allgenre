@@ -1,2 +1,2 @@
-# es-allgenre
+# AllGenre
 エッセイや日記や読書感想などなんでも
